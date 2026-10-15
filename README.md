@@ -21,6 +21,7 @@
 - 📱 Crio apps mobile com **Flutter / Dart**
 - 🌐 Construo back-ends com **TypeScript** e **Supabase**, com deploy na **Vercel** e e-mails transacionais com **Resend**
 - 🤖 Uso **Claude** no dia a dia pra acelerar o desenvolvimento
+- 🍕 Participo da **CPG – Coding, Pizza and Glory**, a game jam do Inatel, desde 2024 (edições de 2024, 2025 e 2026), com jogos como [CPG_2024Lenda](https://github.com/IgorPivoto/CPG_2024Lenda) e [Smiley_CPG](https://github.com/IgorPivoto/Smiley_CPG)
 - 🏆 Participei de hackathons como o **Hacktown 2025**
 - 💬 Pode me chamar pra falar de: games, mobile, back-end e IA aplicada ao desenvolvimento
 
@@ -38,23 +39,19 @@
 **Principais**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,c,dart,flutter,unity,visualstudio,vscode,github" alt="Principais tecnologias" />
+  <img src="https://skillicons.dev/icons?i=cs,c,js,react,dart,flutter,unity,visualstudio,vscode,github" alt="Principais tecnologias" />
 </p>
 
 **Back-end & deploy**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,supabase,vercel" alt="TypeScript, Supabase e Vercel" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://skillicons.dev/icons?i=ts,supabase,vercel" alt="TypeScript, Supabase e Vercel" /><img src="assets/resend.svg" alt="Resend" /><img src="assets/claude.svg" alt="Claude" />
 </p>
 
 **Também uso**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react" alt="Outras tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css" alt="Outras tecnologias" />
 </p>
 
 ## 📊 Estatísticas
