@@ -1,7 +1,7 @@
 <h1 align="center">Salve! Me chamo Igor 🤙</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+de+software;Jogos+com+Unity+%2B+C%23;Apps+mobile+com+Flutter;Estudante+no+Inatel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+de+software;Back-end+com+TypeScript+%2B+Supabase;Jogos+com+Unity+%2B+C%23;Apps+mobile+com+Flutter;Estudante+no+Inatel" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,9 +19,10 @@
 - 🎓 Estudante no **Inatel**, em Santa Rita do Sapucaí – MG
 - 🎮 Desenvolvo jogos com **Unity + C#** (ex.: [RadiantaUnity](https://github.com/IgorPivoto/RadiantaUnity))
 - 📱 Crio apps mobile com **Flutter / Dart**
+- 🌐 Construo back-ends com **TypeScript** e **Supabase**, com deploy na **Vercel** e e-mails transacionais com **Resend**
+- 🤖 Uso **Claude** no dia a dia pra acelerar o desenvolvimento
 - 🏆 Participei de hackathons como o **Hacktown 2025**
-- 🌱 Atualmente aprendendo: <!-- ex.: Java, Python, IA... -->
-- 💬 Pode me chamar pra falar de: games, mobile e projetos open source
+- 💬 Pode me chamar pra falar de: games, mobile, back-end e IA aplicada ao desenvolvimento
 
 ## 🚀 Projetos em destaque
 
@@ -38,6 +39,16 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,c,dart,flutter,unity,visualstudio,vscode,github" alt="Principais tecnologias" />
+</p>
+
+**Back-end & deploy**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,supabase,vercel" alt="TypeScript, Supabase e Vercel" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
 **Também uso**
