@@ -1,39 +1,54 @@
+<h1 align="center">Salve! Me chamo Igor 🤙</h1>
 
-## Salve! Me chamo Igor 🤙
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+de+software;Jogos+com+Unity+%2B+C%23;Apps+mobile+com+Flutter;Estudante+no+Inatel" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/igor-silva-pivoto-48804b289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/igor__pivoto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://twitter.com/StarChip_Studio"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://youtube.com/channel/UCWrFlES9uWnC11NcqB6Dfyg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
 
+---
 
-## Onde me encontrar
+## 👨‍💻 Sobre mim
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
-https://linkedin.com/in/igor-silva-pivoto-48804b289/)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](
-https://instagram.com/igor__pivoto/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](
-https://twitter.com/StarChip_Studio)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](
-https://youtube.com/channel/UCWrFlES9uWnC11NcqB6Dfyg)
+<!-- Ajuste estes itens com o que fizer sentido pra você -->
+- 🎓 Estudante no **Inatel**, em Santa Rita do Sapucaí – MG
+- 🎮 Desenvolvo jogos com **Unity + C#** (ex.: [RadiantaUnity](https://github.com/IgorPivoto/RadiantaUnity))
+- 📱 Crio apps mobile com **Flutter / Dart**
+- 🏆 Participei de hackathons como o **Hacktown 2025**
+- 🌱 Atualmente aprendendo: <!-- ex.: Java, Python, IA... -->
+- 💬 Pode me chamar pra falar de: games, mobile e projetos open source
 
-## Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Igorpivoto&show_icons=true&theme=dark)
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpivoto&layout=compact&langs-count=16&theme=dark)
+## 🚀 Projetos em destaque
 
-## Tecnologias primarias
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://github.com/IgorPivoto/Launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorPivoto&repo=Launcher&theme=github_dark&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/IgorPivoto/RadiantaUnity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorPivoto&repo=RadiantaUnity&theme=github_dark&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/IgorPivoto/Darponente.ai-Hacktown-2025"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorPivoto&repo=Darponente.ai-Hacktown-2025&theme=github_dark&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/IgorPivoto/Lakelink"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IgorPivoto&repo=Lakelink&theme=github_dark&hide_border=true&bg_color=0d1117" /></a>
+</p>
 
+## 🛠️ Tecnologias
 
-## Tecnologias secundárias
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Principais**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,c,dart,flutter,unity,visualstudio,vscode,github" alt="Principais tecnologias" />
+</p>
 
+**Também uso**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react" alt="Outras tecnologias" />
+</p>
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IgorPivoto&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPivoto&layout=compact&langs_count=8&hide=shaderlab,asp.net&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" />
+</p>
